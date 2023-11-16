@@ -1,5 +1,7 @@
 # Energ-AI
- Análise de imagens alimentada por IA (Inteligência artificial) para  a indústria de energia
+ ### Análise de imagens alimentada por IA (Inteligência artificial) para  a indústria de energia
+
+ Metodologia: Redes Neurais Convolucionais ( CNN ) com Transfer learning e fine-tuning - modelo Inception_V3
 ##
 
 ### Inspiração & Direitos de autor
