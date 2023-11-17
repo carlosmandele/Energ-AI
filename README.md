@@ -15,7 +15,7 @@ O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/lic
 
 
 ##
-A visão computacional (Inteligencia artificial) é a arte e a ciência de fazer com que as maquinas tenham a capacidade sensorial semelhante á visão humana, i.e, tecnicas que permitem a uma maquina ou dispositivos capazes de interpretarem imagens e videos de forma inteligente. Usando dados visuais, um sistema de visão computacional pode aprender a identificar e classificar objetos com precisão e tomar uma decisão com base no que vê [1] [2] [3].
+A visão computacional (Inteligencia artificial) é a arte e a ciência; de fazer com que as maquinas tenham a capacidade sensorial semelhante á visão humana; i.e, tecnicas que permitem a uma maquina ou dispositivos capazes de interpretarem imagens e videos de forma inteligente. Usando dados visuais, um sistema de visão computacional pode aprender a identificar e classificar objetos com precisão e tomar uma decisão com base no que vê [1] [2] [3].
 A visão computacional pode ser aplicada em diversas áreas, incluindo na exploração de recursos naturais tais como na agricultura e agro-pecuaria, energia, meio ambiente e silvicultura, pescas e a exploração mineira.
 No âmbito da energia, a  visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. 
 
@@ -27,7 +27,12 @@ No âmbito da energia, a  visão computacional pode ser aplicada para identifica
 
 <a href="https://stackoverflow.com/questions/65618137/confusion-matrix-for-multiple-classes-in-python" target='_blank'>Stackoverflow</a>
 
+[1] 
+
+[2] Li Kaiyue, Liu Lei, Research and Application of Artificial Intelligence in the Field of Vision System and Network. 2019 5th International Conference on Advanced Computing, Networking and Security (ADCONS 2019). 2019: 77-82.
+
 [3] <a href="https://linguatechnologies.com/" target='_blank'>Claude COULOMBE</a> - Ph.D. em Ciências da Computação, empreendedor, consultor de IA aplicada
+
 
 
 #
