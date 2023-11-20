@@ -6,7 +6,7 @@
 
 ### Inspiração & Direitos de autor
 
-Este projeto é inspirado durante minha aula no curso de visão computacional (Deep learning) avançado na Université Cégep de Matane, lecionado e dirigido por Claude Coulombe, Ph.D. em ciência da computação.
+Este projeto é inspirado durante minha aula no curso de visão computacional (Deep learning) avançado na Université Cégep de Matane, lecionado e dirigido por Claude Coulombe, Ph.D. em ciência da computação. Neste projeto, o objetivo é construir um classificador de imagens em um sistema de energias  intermitentes (Painel solar limpo vs. Painel solar sujo/danificado) aplicando técnicas de visão computacional, redes neurais convolucionais, Transfer learning e fine-tuning.
 
 ##### Copyright (c) 2023, Carlos MANDELE, modificações e adaptação para português
 O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target='_blank'>Creative Commons Attribution 4.0 (CC BY 4.0)</a>,<br/>e os código estão em <a href="https://www.apache.org/licenses/LICENSE-2.0" target='_blank'>licence Apache 2.0</a>.
@@ -17,7 +17,7 @@ O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/lic
 ##
 A visão computacional (Inteligencia artificial) é a arte e a ciência; de fazer com que as maquinas tenham a capacidade sensorial semelhante á visão humana; i.e, técnicas que permitem a uma maquina ou dispositivos capazes de interpretarem imagens e videos de forma inteligente. Usando dados visuais, um sistema de visão computacional pode aprender a identificar e classificar objetos com precisão e tomar uma decisão com base no que vê [1] [2] [3].
 A visão computacional pode ser aplicada em diversas áreas, incluindo na exploração de recursos naturais tais como na agricultura e agro-pecuaria, energia, meio ambiente e silvicultura, pescas e a exploração mineira.
-No âmbito da energia, a  visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens (Painel solar limpo vs. Painel solar sujo/danificado) em sistemas de energias  intermitentes (solar) aplicando técnicas de visão computacional, redes neurais convolucionais, Transfer learning e fine-tuning. 
+No âmbito da energia, a  visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. 
 
 
 
