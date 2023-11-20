@@ -20,7 +20,7 @@ A visão computacional pode ser aplicada em diversas áreas, incluindo na explor
 No âmbito da energia, a  visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens (Painel solar limpo vs. Painel solar sujo/danificado) em sistemas de energias  intermitentes (solar) aplicando técnicas de visão computacional, redes neurais convolucionais, Transfer learning e fine-tuning. 
 
 
-#
+
 ## Referências:
 
 <a href="https://www.thetopsites.net/article/50151157.shtml" target='_blank'>thetopsites</a>
